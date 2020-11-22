@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.11">
+	<ConfigVersions>
+		<Metadata name="CommonCommand.мт_ПроверкаКонфигурации" id="41be21ff-f249-4b42-bd99-bdbcb6b04346" configVersion="0724874c32826421c6056c2e7600a5df44d2b069"/>
+		<Metadata name="CommonCommand.мт_ПроверкаКонфигурации.CommandModule" id="41be21ff-f249-4b42-bd99-bdbcb6b04346.2" configVersion="38578ab36b289f52d725f36e49e93725757f8e83"/>
+		<Metadata name="CommonForm.мт_Информация_ОК" id="ee120bf6-1b6f-4c29-98f8-c6c067088dde" configVersion="0d48791430eae6ee7d42858760778cbc8cf2231c"/>
+		<Metadata name="CommonForm.мт_Информация_ОК.Form" id="ee120bf6-1b6f-4c29-98f8-c6c067088dde.0" configVersion="b728ab883eb43649f0105d8da640397fdea3e57b"/>
+		<Metadata name="CommonForm.мт_ПроверкаКонфигурации" id="a7693772-db52-4262-b1de-37dcba6dce68" configVersion="26e564921ccd63378f2fcb9b2d9db8c2ea7b3963"/>
+		<Metadata name="CommonForm.мт_ПроверкаКонфигурации.Form" id="a7693772-db52-4262-b1de-37dcba6dce68.0" configVersion="94b6f4614f52f173b6d756879cd83c9ca822d3b0"/>
+		<Metadata name="CommonModule.мт_ПрочиеФункцииКлиент" id="f01ad58d-e4fa-46da-8501-2456d7cd2003" configVersion="a0516ebe282de00b44976ec58d0e22741ee8726d"/>
+		<Metadata name="CommonModule.мт_ПрочиеФункцииКлиент.Module" id="f01ad58d-e4fa-46da-8501-2456d7cd2003.0" configVersion="540e787fa4f99721649520fb03caefd6d1b96c73"/>
+		<Metadata name="CommonModule.мт_ТестированиеКонфигурации_Клиент" id="2c784676-c769-4154-8f06-782e06aa46da" configVersion="db2c9b80024c7c62d925d7c6ff87458e4e179733"/>
+		<Metadata name="CommonModule.мт_ТестированиеКонфигурации_Клиент.Module" id="2c784676-c769-4154-8f06-782e06aa46da.0" configVersion="b91c6980266494f2e446fcda6ba3ec9ae47afacd"/>
+		<Metadata name="CommonModule.мт_ТестированиеКонфигурации_Настройки" id="f0f14478-22da-4c32-a2bb-19294d5b2edf" configVersion="6430ef84ec8f779a63eb25446e793405fb75f7ef"/>
+		<Metadata name="CommonModule.мт_ТестированиеКонфигурации_Настройки.Module" id="f0f14478-22da-4c32-a2bb-19294d5b2edf.0" configVersion="26de8b3833f0450e5a5daac6651ce5a3498e5dd3"/>
+		<Metadata name="CommonModule.мт_ТестированиеКонфигурации_Сервер" id="fa155839-0ea0-4238-b2a6-b4256f0d048b" configVersion="8cd21e5405d8ed51cd3c326f261d58023a76b6c1"/>
+		<Metadata name="CommonModule.мт_ТестированиеКонфигурации_Сервер.Module" id="fa155839-0ea0-4238-b2a6-b4256f0d048b.0" configVersion="c0ad2202a441479ad174c893d580d1533cef1cc1"/>
+		<Metadata name="CommonModule.мт_ТестированиеКонфигурации_Служебный" id="f400c395-93f7-4b83-81a6-847bf1e397c2" configVersion="dd0d56781d188a85dc8d635b4876c9cc6719c314"/>
+		<Metadata name="CommonModule.мт_ТестированиеКонфигурации_Служебный.Module" id="f400c395-93f7-4b83-81a6-847bf1e397c2.0" configVersion="990b47fa3b766e601911a95f1d0446ee519b2f7a"/>
+		<Metadata name="CommonPicture.мт_ДиалогГалочкаОК" id="ce898374-7a67-42b2-b086-df0d4cf34745" configVersion="7dc5da60e390c1da4603e2fdf07ce0568bd209cc"/>
+		<Metadata name="CommonPicture.мт_ДиалогГалочкаОК.Picture" id="ce898374-7a67-42b2-b086-df0d4cf34745.0" configVersion="f7a44ec03782300191c4cf7313200ccf7cf6a29e"/>
+		<Metadata name="Configuration.Тестирование" id="7b535822-87b7-4d12-aa5a-15edebbbab04" configVersion="06f8ff969abdf72739542ed95af3e6a490544f7b"/>
+		<Metadata name="Language.Русский" id="4c713859-48fe-423a-8e8e-f6a63e3051c0" configVersion="dbefa8278a5b1b404f36607d2286e2a5f4e92d51"/>
+		<Metadata name="Role.мт_ОсновнаяРоль" id="ec525743-59cb-41ef-9a2e-05cf05c006ba" configVersion="bff70609a642e3c325bccd1dae58807bbc9e167e"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
