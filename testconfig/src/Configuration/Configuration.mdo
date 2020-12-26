@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="7b535822-87b7-4d12-aa5a-15edebbbab04">
+  <name>Тестирование</name>
+  <synonym>
+    <key>ru</key>
+    <value>Тестирование</value>
+  </synonym>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:ConfigurationExtension">
+    <defaultRunMode>Checked</defaultRunMode>
+    <usePurposes>Checked</usePurposes>
+    <defaultLanguage>Checked</defaultLanguage>
+    <interfaceCompatibilityMode>Checked</interfaceCompatibilityMode>
+    <defaultRoles>Extended</defaultRoles>
+  </extension>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="e3ba8cb3-5c86-444a-b682-f976f4d55927"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="04ad4384-c133-4103-9054-33301ac4f384"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="c08b1f95-3732-4d61-9fad-eb6d08677407"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="41564e9a-3a9f-4cba-b8f6-ff97754c1f79"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="6f06b939-5e51-4398-8e8e-c45e1a1e1d15"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="5514a6ac-7d75-478f-b390-ad51c9bc7071"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="d85f92a8-1d09-4e87-be71-fbc8801eae60"/>
+  <keepMappingToExtendedConfigurationObjectsByIDs>true</keepMappingToExtendedConfigurationObjectsByIDs>
+  <namePrefix>мт_</namePrefix>
+  <configurationExtensionCompatibilityMode>8.3.15</configurationExtensionCompatibilityMode>
+  <configurationExtensionPurpose>Customization</configurationExtensionPurpose>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <defaultRoles>Role.мт_ОсновнаяРоль</defaultRoles>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.15</compatibilityMode>
+  <languages uuid="4c713859-48fe-423a-8e8e-f6a63e3051c0" extendedConfigurationObject="15bb3493-cc0d-48c8-b14e-519d584cade1">
+    <name>Русский</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:LanguageExtension">
+      <languageCode>Checked</languageCode>
+    </extension>
+    <languageCode>ru</languageCode>
+  </languages>
+  <commonPictures>CommonPicture.мт_ДиалогГалочкаОК</commonPictures>
+  <roles>Role.мт_ОсновнаяРоль</roles>
+  <commonModules>CommonModule.мт_ПрочиеФункцииКлиент</commonModules>
+  <commonModules>CommonModule.мт_ТестированиеКонфигурации_Клиент</commonModules>
+  <commonModules>CommonModule.мт_ТестированиеКонфигурации_Настройки</commonModules>
+  <commonModules>CommonModule.мт_ТестированиеКонфигурации_Сервер</commonModules>
+  <commonModules>CommonModule.мт_ТестированиеКонфигурации_Служебный</commonModules>
+  <commonCommands>CommonCommand.мт_ПроверкаКонфигурации</commonCommands>
+  <commonForms>CommonForm.мт_ПроверкаКонфигурации</commonForms>
+  <commonForms>CommonForm.мт_Информация_ОК</commonForms>
+</mdclass:Configuration>
