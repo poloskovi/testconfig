@@ -44,7 +44,6 @@
   </languages>
   <commonPictures>CommonPicture.мт_ДиалогГалочкаОК</commonPictures>
   <roles>Role.мт_ОсновнаяРоль</roles>
-  <commonModules>CommonModule.мт_ПрочиеФункцииКлиент</commonModules>
   <commonModules>CommonModule.мт_ТестированиеКонфигурации_Клиент</commonModules>
   <commonModules>CommonModule.мт_ТестированиеКонфигурации_Настройки</commonModules>
   <commonModules>CommonModule.мт_ТестированиеКонфигурации_Сервер</commonModules>

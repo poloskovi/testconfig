@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="f01ad58d-e4fa-46da-8501-2456d7cd2003">
-  <name>мт_ПрочиеФункцииКлиент</name>
-  <synonym>
-    <key>ru</key>
-    <value>(мт) Прочие функции клиент</value>
-  </synonym>
-  <clientManagedApplication>true</clientManagedApplication>
-</mdclass:CommonModule>
