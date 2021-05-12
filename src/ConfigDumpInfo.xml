@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.11">
+	<ConfigVersions>
+		<Metadata name="Catalog.мт_Тестирование_ЭталонныеОстаткиРегистров" id="72e3fe68-3863-47cd-b0a3-e0e8bdd09ecb" configVersion="5225da663d225e55bc166c64a12d63d6b33595bc">
+			<Metadata name="Catalog.мт_Тестирование_ЭталонныеОстаткиРегистров.Command.СверитьОстатки" id="1f911357-4ccb-4971-a9c4-c700d6cb7992"/>
+			<Metadata name="Catalog.мт_Тестирование_ЭталонныеОстаткиРегистров.Attribute.ДатаОстатков" id="52fd98e8-6c37-4d67-a8d9-b2c2aaef315d"/>
+			<Metadata name="Catalog.мт_Тестирование_ЭталонныеОстаткиРегистров.Command.СохраненныеОстатки" id="b686c0ae-ed98-49e5-9457-1bae028b8087"/>
+			<Metadata name="Catalog.мт_Тестирование_ЭталонныеОстаткиРегистров.Attribute.КоличествоЗаписей" id="cc64aede-5e6b-47cd-9f30-ac7746da60af"/>
+			<Metadata name="Catalog.мт_Тестирование_ЭталонныеОстаткиРегистров.Attribute.СохраненныеДанные" id="d7e6c3c5-0515-43d4-82a3-6a3431c83cfa"/>
+		</Metadata>
+		<Metadata name="Catalog.мт_Тестирование_ЭталонныеОстаткиРегистров.Command.СверитьОстатки.CommandModule" id="1f911357-4ccb-4971-a9c4-c700d6cb7992.2" configVersion="3df9d9b7507536416093c8a0a6fd173b331b743a"/>
+		<Metadata name="Catalog.мт_Тестирование_ЭталонныеОстаткиРегистров.Command.СохраненныеОстатки.CommandModule" id="b686c0ae-ed98-49e5-9457-1bae028b8087.2" configVersion="a7326b385e44c19784db085c32dae97211a81934"/>
+		<Metadata name="Catalog.мт_Тестирование_ЭталонныеОстаткиРегистров.Form.ФормаСписка" id="9b565a9d-c420-419d-91ce-47d984154bcf" configVersion="d2106a84cd96cc28ea1c48dbcefe9f25699a19ac"/>
+		<Metadata name="Catalog.мт_Тестирование_ЭталонныеОстаткиРегистров.Form.ФормаСписка.Form" id="9b565a9d-c420-419d-91ce-47d984154bcf.0" configVersion="4b8ec2307a517ad6967ecc99ff491147e109061f"/>
+		<Metadata name="Catalog.мт_Тестирование_ЭталонныеОстаткиРегистров.Form.ФормаЭлемента" id="9c358a93-3615-4818-971d-9d4954015a46" configVersion="a158cdceea89ecd72f1188c37d66db5e3d262e4d"/>
+		<Metadata name="Catalog.мт_Тестирование_ЭталонныеОстаткиРегистров.Form.ФормаЭлемента.Form" id="9c358a93-3615-4818-971d-9d4954015a46.0" configVersion="d1b00be11c012736b9d657109f1fdc28aa8cf135"/>
+		<Metadata name="Catalog.мт_Тестирование_ЭталонныеОстаткиРегистров.ManagerModule" id="72e3fe68-3863-47cd-b0a3-e0e8bdd09ecb.3" configVersion="9f68a5bc29c69876475ed6ceff790283dc2b082c"/>
+		<Metadata name="Catalog.мт_Тестирование_ЭталонныеОстаткиРегистров.Template.РезультатВыполненияЗапроса" id="5e2aec1b-2a85-4a0d-b561-62e9bf639b6b" configVersion="b64c49c356b743a87c37ec59940f2a432b89c9e7"/>
+		<Metadata name="Catalog.мт_Тестирование_ЭталонныеОстаткиРегистров.Template.РезультатВыполненияЗапроса.Template" id="5e2aec1b-2a85-4a0d-b561-62e9bf639b6b.0" configVersion="ce254ceb218410527e8b09c16da9bcff1022f280"/>
+		<Metadata name="CommonCommand.мт_ПроверкаКонфигурации" id="41be21ff-f249-4b42-bd99-bdbcb6b04346" configVersion="0724874c32826421c6056c2e7600a5df44d2b069"/>
+		<Metadata name="CommonCommand.мт_ПроверкаКонфигурации.CommandModule" id="41be21ff-f249-4b42-bd99-bdbcb6b04346.2" configVersion="48959c4d51fb4a567606804e8a8853bc80e2cdc6"/>
+		<Metadata name="CommonForm.мт_Информация_ОК" id="ee120bf6-1b6f-4c29-98f8-c6c067088dde" configVersion="0d48791430eae6ee7d42858760778cbc8cf2231c"/>
+		<Metadata name="CommonForm.мт_Информация_ОК.Form" id="ee120bf6-1b6f-4c29-98f8-c6c067088dde.0" configVersion="b30db59ec605a8cd0e6aa783e615464c1adabb86"/>
+		<Metadata name="CommonForm.мт_ПроверкаКонфигурации" id="a7693772-db52-4262-b1de-37dcba6dce68" configVersion="26e564921ccd63378f2fcb9b2d9db8c2ea7b3963"/>
+		<Metadata name="CommonForm.мт_ПроверкаКонфигурации.Form" id="a7693772-db52-4262-b1de-37dcba6dce68.0" configVersion="c22ff29ad27ad76c6b644ae16a6e61d02e5ab04c"/>
+		<Metadata name="CommonModule.мт_ТестированиеКонфигурации_Клиент" id="2c784676-c769-4154-8f06-782e06aa46da" configVersion="db2c9b80024c7c62d925d7c6ff87458e4e179733"/>
+		<Metadata name="CommonModule.мт_ТестированиеКонфигурации_Клиент.Module" id="2c784676-c769-4154-8f06-782e06aa46da.0" configVersion="1e3887c2eb5f3e8309ecda6ce2d713e97c0c41c9"/>
+		<Metadata name="CommonModule.мт_ТестированиеКонфигурации_Настройки" id="f0f14478-22da-4c32-a2bb-19294d5b2edf" configVersion="633ae9b88b97223a86c59c13c7c1272c06a144f7"/>
+		<Metadata name="CommonModule.мт_ТестированиеКонфигурации_Настройки.Module" id="f0f14478-22da-4c32-a2bb-19294d5b2edf.0" configVersion="473d2a9e2c1b7b9b785333154ec64eb5d98c7254"/>
+		<Metadata name="CommonModule.мт_ТестированиеКонфигурации_ОбщиеСкрипты" id="7a7452eb-be78-4a36-ac31-08cc2d926709" configVersion="4558cb345101201d00613854564d9c784db2941f"/>
+		<Metadata name="CommonModule.мт_ТестированиеКонфигурации_ОбщиеСкрипты.Module" id="7a7452eb-be78-4a36-ac31-08cc2d926709.0" configVersion="e5fa2e0c9bd4e88cb953ed62a218bdf62cc8a341"/>
+		<Metadata name="CommonModule.мт_ТестированиеКонфигурации_Сервер" id="fa155839-0ea0-4238-b2a6-b4256f0d048b" configVersion="8cd21e5405d8ed51cd3c326f261d58023a76b6c1"/>
+		<Metadata name="CommonModule.мт_ТестированиеКонфигурации_Сервер.Module" id="fa155839-0ea0-4238-b2a6-b4256f0d048b.0" configVersion="4191e3213247c4a3a37abcdaa2239f950b4ae241"/>
+		<Metadata name="CommonModule.мт_ТестированиеКонфигурации_Служебный" id="f400c395-93f7-4b83-81a6-847bf1e397c2" configVersion="c8a26437a68d70144f533c3107dbffe7ed3c5e36"/>
+		<Metadata name="CommonModule.мт_ТестированиеКонфигурации_Служебный.Module" id="f400c395-93f7-4b83-81a6-847bf1e397c2.0" configVersion="7dbc1927f533b433a375bf60ef0a1042dc067119"/>
+		<Metadata name="CommonPicture.мт_ДиалогГалочкаОК" id="ce898374-7a67-42b2-b086-df0d4cf34745" configVersion="7dc5da60e390c1da4603e2fdf07ce0568bd209cc"/>
+		<Metadata name="CommonPicture.мт_ДиалогГалочкаОК.Picture" id="ce898374-7a67-42b2-b086-df0d4cf34745.0" configVersion="f7a44ec03782300191c4cf7313200ccf7cf6a29e"/>
+		<Metadata name="Configuration.Test" id="5296ba60-be37-4491-a6f3-a89914dc4f9c" configVersion="918f77e721e5f973e6ac1604825f23ed4261eb1f"/>
+		<Metadata name="Configuration.Test.ExternalConnectionModule" id="56cb304b-0c78-4117-886c-dcb05ff473ef.5" configVersion="31cbf9231fa70ad2876f3ddbb24d4ab2d1d09796"/>
+		<Metadata name="Configuration.Test.ManagedApplicationModule" id="56cb304b-0c78-4117-886c-dcb05ff473ef.6" configVersion="e5ae6ec7d3b3d0a2ca4415ecd0332a5584eb7580"/>
+		<Metadata name="Configuration.Test.SessionModule" id="56cb304b-0c78-4117-886c-dcb05ff473ef.7" configVersion="3b0623d91515154040bd54b324b8018b86fda101"/>
+		<Metadata name="Language.Русский" id="9a450731-1461-4659-8ea8-cdf2176cd5a6" configVersion="75c74576e32bf52d0f3837ce9ee30c7491d6993c"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
